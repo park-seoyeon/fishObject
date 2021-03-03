@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: f9a08b5c47583df469dcf56957c6b0f7
+  - enabled: 1
+    path: Assets/Scenes/VRFishInfo.unity
+    guid: 2852c092bb63e4157950e29e6c1c762e
+  m_configObjects: {}
